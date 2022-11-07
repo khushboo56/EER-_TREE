@@ -122,6 +122,5 @@ int main() {
     EerTree tree;
     for(int i = 0; i < s.size(); ++i)
         tree.insert(s, i);
-    cout << "insertion done\n";
     tree.printAll(s);
 }

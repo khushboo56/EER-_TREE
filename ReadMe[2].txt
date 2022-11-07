@@ -23,7 +23,7 @@ Rich String: O(n)
 
 ## Expected inputs and outputs of different codes:
 
-(1) eer_tree.cpp
+(1) EER_TREE.cpp
 INPUT: The string to be stored in the eertree.
 OUTPUT: It stores the string in the eertree and displays the palindromic substrings present in the input string.
 Example:(Input) abcbdbcb
